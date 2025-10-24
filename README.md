@@ -40,4 +40,4 @@ Abra no Visual Studio: Abra o arquivo de solução (.sln) no Visual Studio.
 Selecione e Execute a Plataforma: Escolha sua plataforma de destino preferida (Android Emulator, Windows Machine, etc.) na barra de ferramentas e pressione F5 (Executar).
 
 ## ✍️ Autor
-@brendahidalgos - Aluno do curso de Análise e Desenvolvimento de Sistemas.
+@brendahidalgos - Aluna do curso de Análise e Desenvolvimento de Sistemas.
