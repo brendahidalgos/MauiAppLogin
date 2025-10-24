@@ -1,6 +1,7 @@
 # MauiAppLogin
 🔑 App de Login Básico (.NET MAUI)
-📝 Descrição
+
+📝 Descrição: 
 Este é um projeto de exercício criado com .NET MAUI para demonstrar a criação de uma interface de usuário de login e a implementação de uma lógica de validação simples, sem a necessidade de um backend ou banco de dados.
 
 O objetivo principal é praticar:
